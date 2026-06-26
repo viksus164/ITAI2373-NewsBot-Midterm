@@ -60,6 +60,8 @@ learn-ai-bbc.zip
 ```
 
 This is the BBC News Classification ZIP file downloaded from Kaggle. No paid API keys are required for the default setup. The notebook extracts the ZIP file, loads `BBC News Train.csv`, renames the columns, and validates the dataset.
+Nevertheless, check for the updated zips on the actual website or use the one provided.
+The website: https://www.kaggle.com/competitions/learn-ai-bbc/data
 
 ### 4. Run the notebook in order
 
